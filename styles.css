@@ -43,4 +43,16 @@ button.side{
   border-top-right-radius: 40px;
   border-bottom-left-radius: 40px;
   border-bottom-right-radius: 40px;
+  background-color: lightgreen;
+  border: 3px solid black;
+}
+#p1
+{
+  background-image: linear-gradient(white, red);
+}
+td{
+  border-radius: 20px;
+}
+tr{
+  border-radius: 20px;
 }
