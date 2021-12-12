@@ -25,6 +25,9 @@ button.side{
   background-color:darkgrey;
   color:red;
 }
+.side:focus{
+  color:black;
+}
 #b1 {
   border-top-right-radius: 20px;
   border-bottom-left-radius: 20px;
