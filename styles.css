@@ -21,6 +21,10 @@ button.side{
   font-family: fantasy;
   font-size: 15px;
 }
+.side:hover{
+background-color:darkgrey;
+color:red;
+}
 #b1 {
   border-top-right-radius: 20px;
   border-bottom-left-radius: 20px;
